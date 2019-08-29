@@ -3,4 +3,3 @@
 	$arr = array(10,20,30,'a');
 	echo array_sum($arr);
 	
-?>
